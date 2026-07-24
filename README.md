@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**diamond19990628/diamond19990628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm linshenzhidi
 
-Here are some ideas to get you started:
+Full Stack Web Engineer
+📍 Tokyo, Japan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack
+- Frontend: React, TypeScript, jquery
+- Backend: Java, Spring Boot, PHP, ColdFusion
+- Database: MySQL, oracle, sqlserver
+- Tools: aws, Git, Linux
+
+🚀 Featured Projects
+- Flower Shop Mini Program
+  Spring Boot + MySQL + RabbitMQ
+
+- React Portfolio
+  React + TypeScript
+
+- ...
+
+🌱 Currently Learning
+- Go
+- Kubernetes
+
+📫 Contact
+LinkedIn
+Email
