@@ -9,7 +9,7 @@ Full Stack Web Engineer
 - Frontend: React, TypeScript, jquery
 - Backend: Java, Spring Boot, PHP, ColdFusion
 - Database: MySQL, oracle, sqlserver
-- Tools: aws, Git, Linux
+- Tools: AWS, Git, Linux
 
 🚀 Featured Projects
 - Flower Shop Mini Program
@@ -23,8 +23,3 @@ Full Stack Web Engineer
 🌱 Currently Learning
 - Go
 - Kubernetes
-
-📫 Contact
-LinkedIn
-Email
-![Diamond's GitHub stats](https://github-readme-stats.vercel.app/api?username=diamond19990628&show_icons=true&include_all_commits=true)
