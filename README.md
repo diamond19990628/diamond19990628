@@ -21,6 +21,5 @@ Full Stack Web Engineer
 - ...
 
 🌱 Currently Learning
-- Go
 - Python
 - Kubernetes
