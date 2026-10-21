@@ -7,7 +7,7 @@ Full Stack Web Engineer
 
 💻 Tech Stack
 - Frontend: React, TypeScript, jquery
-- Backend: Java, Spring Boot, PHP, ColdFusion, Go
+- Backend: Java, Spring Boot, PHP, ColdFusion, Go, Python, FastAPI
 - Database: MySQL, oracle, sqlserver, snowflake
 - Tools: AWS, Git, Linux, Docker
 
@@ -21,5 +21,4 @@ Full Stack Web Engineer
 - ...
 
 🌱 Currently Learning
-- Python
 - Kubernetes
